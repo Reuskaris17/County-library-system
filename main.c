@@ -1,10 +1,10 @@
-/*-----------------------------
-* Version: C99                *
-* Project: Library management *
-* Author:  Titus Njiru        *
-* Date:    June,2021          *
-* License: MIT                *
-******************************/
+/*-------------------------------------
+* Version: C99                         *
+* Project: Library management          *
+* Author:  Renny mathew kariuki        *
+* Date:    June,2021                   *
+* License: MIT                         *
+***************************************/
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -14,7 +14,7 @@ int main()
 {
     int action;
     printf("\tCounty Library Management System!\n");
-    printf("Welcome Titus\n");
+    printf("Welcome renny\n");
     // Navigation menu
     do {
         printf("1. Add user\n");
